@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/user/Dropbox/UNITY/UNITYPROJECT/VRporject/Assets/Main_Scene.unity
+  isLoaded: 1
+  isActive: 1
